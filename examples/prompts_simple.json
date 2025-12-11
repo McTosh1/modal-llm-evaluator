@@ -1,0 +1,7 @@
+{
+  "direct": "Answer this question: {question}",
+  "friendly": "Hi there! Can you help me with this? {question}",
+  "expert": "As an expert in the field, please explain: {question}",
+  "concise": "In 2-3 sentences: {question}",
+  "detailed": "Provide a comprehensive, detailed answer to: {question}"
+}

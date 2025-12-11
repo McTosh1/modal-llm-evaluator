@@ -1,0 +1,33 @@
+[
+  {
+    "id": "test1",
+    "question": "What is the capital of France?",
+    "expected_output": "Paris",
+    "required_keywords": ["Paris"]
+  },
+  {
+    "id": "test2",
+    "question": "Explain quantum computing in simple terms.",
+    "min_words": 50,
+    "required_keywords": ["quantum", "computing", "bits"]
+  },
+  {
+    "id": "test3",
+    "question": "Write a Python function to check if a number is prime.",
+    "expect_code": true,
+    "code_language": "python",
+    "required_keywords": ["def", "prime"]
+  },
+  {
+    "id": "test4",
+    "question": "Generate a JSON object with name and age fields.",
+    "expect_json": true,
+    "required_keywords": ["name", "age"]
+  },
+  {
+    "id": "test5",
+    "question": "What's your opinion on artificial intelligence?",
+    "check_sentiment": true,
+    "min_words": 30
+  }
+]

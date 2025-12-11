@@ -1,0 +1,26 @@
+[
+  {
+    "id": "product_1",
+    "product_name": "Wireless Bluetooth Headphones",
+    "features": "40-hour battery life, active noise cancellation, comfortable over-ear design, premium sound quality",
+    "min_words": 50,
+    "max_words": 150,
+    "required_keywords": ["wireless", "battery", "noise cancellation", "sound"]
+  },
+  {
+    "id": "product_2",
+    "product_name": "Smart Coffee Maker",
+    "features": "WiFi enabled, programmable brewing, voice control compatible, thermal carafe, auto-clean function",
+    "min_words": 50,
+    "max_words": 150,
+    "required_keywords": ["smart", "programmable", "coffee"]
+  },
+  {
+    "id": "product_3",
+    "product_name": "Ergonomic Office Chair",
+    "features": "Adjustable lumbar support, breathable mesh back, height-adjustable armrests, 360-degree swivel, weight capacity 300 lbs",
+    "min_words": 50,
+    "max_words": 150,
+    "required_keywords": ["ergonomic", "adjustable", "support", "office"]
+  }
+]

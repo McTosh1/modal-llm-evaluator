@@ -1,0 +1,24 @@
+[
+  {
+    "id": "test_1",
+    "question": "What is the capital of France?",
+    "expected_output": "Paris",
+    "required_keywords": ["Paris"],
+    "min_words": 3,
+    "max_words": 20
+  },
+  {
+    "id": "test_2",
+    "question": "Explain machine learning in simple terms",
+    "min_words": 30,
+    "max_words": 100,
+    "required_keywords": ["data", "algorithms", "learn"]
+  },
+  {
+    "id": "test_3",
+    "question": "Write a Python function to reverse a string",
+    "expect_code": true,
+    "code_language": "python",
+    "required_keywords": ["def", "return"]
+  }
+]

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/GTMVP/modal-llm-evaluator/discussions
+    about: Ask questions and discuss with the community
+  - name: 📧 Email Support
+    url: mailto:hello@gtmvp.com
+    about: Contact us directly for support

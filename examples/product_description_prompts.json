@@ -1,0 +1,11 @@
+{
+  "basic": "Write a product description for: {product_name}. Features: {features}",
+
+  "marketing": "Create an engaging product description that highlights the benefits of {product_name}. Key features: {features}. Make it persuasive and customer-focused.",
+
+  "seo_optimized": "Write an SEO-friendly product description for {product_name}. Include the following features naturally: {features}. Use conversational tone and include relevant keywords.",
+
+  "luxury": "Craft an elegant, premium product description for {product_name}. Emphasize quality and exclusivity. Features: {features}. Use sophisticated language.",
+
+  "casual": "Hey! Write a fun, casual product description for {product_name} that sounds like you're telling a friend about it. Cool features: {features}"
+}
