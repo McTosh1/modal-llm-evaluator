@@ -366,17 +366,33 @@ sqlite:///path/to/database.db
 
     # System info
     with st.expander("System Information"):
-        import modal
         import pandas as pd
-        import anthropic
-        import openai
+
+        # Try to import optional dependencies (may not be available on Streamlit Cloud)
+        try:
+            import modal
+            modal_version = modal.__version__
+        except ImportError:
+            modal_version = "Not installed (run locally)"
+
+        try:
+            import anthropic
+            anthropic_version = anthropic.__version__
+        except ImportError:
+            anthropic_version = "Not installed"
+
+        try:
+            import openai
+            openai_version = openai.__version__
+        except ImportError:
+            openai_version = "Not installed"
 
         info = {
-            "Modal Version": modal.__version__,
+            "Modal Version": modal_version,
             "Streamlit Version": st.__version__,
             "Pandas Version": pd.__version__,
-            "Anthropic SDK": anthropic.__version__,
-            "OpenAI SDK": openai.__version__,
+            "Anthropic SDK": anthropic_version,
+            "OpenAI SDK": openai_version,
             "Python Path": sys.executable,
         }
 
