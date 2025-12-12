@@ -9,8 +9,7 @@
 
 A production-ready platform for evaluating LLM prompts at scale with parallel execution, real-time cost tracking, and comprehensive analytics. Test prompts across multiple models (Claude, GPT-4, Gemini) with beautiful visualizations and Power BI integration.
 
-<!-- TODO: Replace with real banner image -->
-![Modal LLM Evaluator Banner](https://via.placeholder.com/1200x400/5B21B6/FFFFFF/?text=Modal+LLM+Evaluator+-+Evaluate+LLM+Prompts+at+Scale)
+![Modal LLM Evaluator Banner](docs/images/Banner.png)
 
 **[Quick Start](#-quick-start)** • **[Documentation](docs/)** • **[Examples](examples/)** • **[Contributing](CONTRIBUTING.md)**
 
@@ -18,15 +17,9 @@ A production-ready platform for evaluating LLM prompts at scale with parallel ex
 
 ## 📸 Screenshots
 
-<!-- TODO: Replace with real screenshots - See docs/images/SCREENSHOT_GUIDE.md -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x600/E5E7EB/1F2937/?text=Home+Dashboard" width="45%" alt="Home Page" />
-  <img src="https://via.placeholder.com/800x600/E5E7EB/1F2937/?text=Results+Dashboard" width="45%" alt="Results Dashboard" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x600/E5E7EB/1F2937/?text=Model+Comparison" width="45%" alt="Model Comparison" />
-  <img src="https://via.placeholder.com/800x600/E5E7EB/1F2937/?text=Cost+Tracking" width="45%" alt="Cost Tracking" />
+  <img src="docs/images/homepage.png" width="45%" alt="Home Dashboard" />
+  <img src="docs/images/run_evaluation.png" width="45%" alt="Run Evaluation" />
 </p>
 
 ---
@@ -138,9 +131,6 @@ streamlit run streamlit_app/app.py
 - Interactive results visualization
 - Email results to clients
 - Export to Excel/CSV/Power BI
-
-<!-- TODO: Add animated demo GIF - See docs/images/SCREENSHOT_GUIDE.md -->
-![Web UI Demo](https://via.placeholder.com/800x400/5B21B6/FFFFFF/?text=Animated+Demo+Coming+Soon)
 
 ### Option 2: Command Line
 
@@ -256,8 +246,7 @@ results.email_to("client@example.com",
 - **Pass Rate:** 94.3%
 - **ROI:** Saved $1,950 in manual testing time
 
-<!-- TODO: Add results example screenshot -->
-![Results Dashboard](https://via.placeholder.com/1200x600/E5E7EB/1F2937/?text=Results+Example+-+Product+Description+Optimization)
+![Results Dashboard](docs/images/run_evaluation.png)
 
 ---
 
