@@ -48,6 +48,18 @@ def show():
     st.title("▶️ Run LLM Evaluation")
     st.markdown("Configure and launch parallel evaluations across multiple models")
 
+    # Demo notice
+    st.warning("""
+    ⚠️ **Demo Mode:** This UI preview shows the evaluation configuration interface.
+
+    To run actual evaluations, you need to:
+    - Clone the repository locally
+    - Set up Modal CLI with your API keys (Anthropic, OpenAI, Google)
+    - Run the app from your local environment
+
+    👉 [Full Setup Instructions](https://github.com/GTMVP/modal-llm-evaluator#-quick-start)
+    """)
+
     # Initialize session state
     if 'prompts' not in st.session_state:
         st.session_state.prompts = {}

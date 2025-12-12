@@ -17,6 +17,16 @@ def show():
     st.markdown('<h1 class="main-header">⚡ LLM Evaluator</h1>', unsafe_allow_html=True)
     st.markdown("### Evaluate LLM prompts at scale with parallel execution, cost tracking, and Power BI integration")
 
+    # Demo notice
+    st.info("""
+    🔧 **This is a live demo of the UI.** To run actual evaluations, you'll need to:
+    1. Clone the repo: `git clone https://github.com/GTMVP/modal-llm-evaluator.git`
+    2. Set up Modal with your API keys
+    3. Run locally: `streamlit run streamlit_app/app.py`
+
+    📖 See [Quick Start Guide](https://github.com/GTMVP/modal-llm-evaluator#-quick-start) for complete setup instructions.
+    """)
+
     st.markdown("---")
 
     # Hero section

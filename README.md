@@ -24,6 +24,14 @@ A production-ready platform for evaluating LLM prompts at scale with parallel ex
 
 ---
 
+## 🎨 Live Demo
+
+**Try the UI:** [https://modal-llm-evaluator.streamlit.app](https://modal-llm-evaluator.streamlit.app)
+
+> 💡 **Note:** The live demo shows the interface and features. To run actual evaluations, you'll need to clone the repo and set up Modal locally with your own API keys. See [Quick Start](#-quick-start) for instructions.
+
+---
+
 ## 🎯 Why This Exists
 
 **The Problem:**
