@@ -60,6 +60,9 @@ config_*.json
 # Streamlit
 .streamlit/secrets.toml
 
+# Email test script (contains credentials)
+test_email.py
+
 # Testing
 .pytest_cache/
 .coverage
